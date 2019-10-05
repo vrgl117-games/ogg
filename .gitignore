@@ -23,7 +23,6 @@ ogg.pc
 ogg-uninstalled.pc
 stamp-h1
 .project
-include/ogg/config_types.h
 src/*.o
 src/*.lo
 src/lib*.la
@@ -37,7 +36,6 @@ CMakeCache.txt
 CMakeFiles
 CMakeScripts
 Testing
-Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
